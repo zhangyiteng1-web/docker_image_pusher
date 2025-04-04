@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 onething1/wxedge
 zhaoyangguang/rebatedog
+mlikiowa/napcat-docker
